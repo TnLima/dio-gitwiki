@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dio-gitwiki/static/js/main.080f3d9e.js",
+    "index.html": "/dio-gitwiki/index.html",
+    "main.080f3d9e.js.map": "/dio-gitwiki/static/js/main.080f3d9e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.080f3d9e.js"
+  ]
+}
